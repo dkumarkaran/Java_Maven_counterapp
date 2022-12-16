@@ -1,5 +1,5 @@
 # MavenCounterWebApp
 MavenCounterWebApp
 
-http://<publicip>:8080/
+http://<publicip>:8080/CounterWebApp/
 
