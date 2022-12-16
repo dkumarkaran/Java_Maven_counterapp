@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /target/CounterWebApp.*
+  - source: /target/CounterWebApp.war
     destination: /var/lib/tomcat9/webapps/
 hooks:
   ApplicationStart:
