@@ -1,3 +1,4 @@
 #!/bin/bash
 sudo systemctl stop tomcat9
-sudo rm -f /var/lib/tomcat9/webapps/CounterWebApp.war
+sudo rm -rf /var/lib/tomcat9/webapps/CounterWebApp*
+touch a.txt
